@@ -1,6 +1,6 @@
 Movies
 
-Integrantes del equipo : * Alejandra Santamarina
+Integrantes del equipo : * Alejandra Santamarina: 34 - Vicente López
                             * Roxana Fernandez
                             *Gisela Vargas
                             *José Maiorano
