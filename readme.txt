@@ -1,6 +1,7 @@
 Movies
 
 Integrantes del equipo : * Alejandra Santamarina
-                            * Roxana Fernandez
+                            * Roxana Fernandez,edad 35, residencia monte grande
                             *Gisela Vargas
-                            *José Maiorano: edad:34, ciudad : grand bourg 
+                            *José Maiorano
+                            
